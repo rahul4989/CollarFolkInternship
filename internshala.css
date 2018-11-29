@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+#img-left{
+    margin-left: -470px;
+    width: 1200px;
+    height: 750px;
+}
+#logo{
+    margin-top: 0;
+    width: 65%;
+    margin-left: 40px;
+}
+#caption{
+    text-align: left;
+
+}
+H4{
+    text-align: center;
+    font-size: 10px;
+    font-style: italic;
+    color: midnightblue;
+    font-weight: bold;
+    padding: -4px;
+
+}
+h1{
+    font-size: 20px;
+    margin-left: 40px;
+    font-style: italic;
+    color: midnightblue;
+    font-weight: bold;
+
+}
+.bord{
+    border-top: white !important;
+    width: 250px;
+    height: 125px;
+    border: 2px solid grey;
+    border-bottom-left-radius: 220px;
+    border-bottom-right-radius: 220px;
+    box-shadow:  2px 2px 2px grey;
+}
+.right{
+    margin-left: 120px;
+}
+#offe{
+    font-size: 80px;
+    color: #000;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 60px;
+}
+#off{
+font-size: 50px;
+    text-align: center;
+    color:black;
+    font-family: 'Rubik', sans-serif;
+}
+.offer{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width:90%;
+    border-top:4px solid rgb(	255,193,37);
+    border-bottom: 4px solid rgb(255,193,37);
+    font-family: 'Rubik', sans-serif;
+}
+#img2{
+    widows: 300px;
+    height: 300px;
+}
+.img2{
+    margin-left: 100px;
+}
+body{
+    font-family: 'Rubik', sans-serif;
+}
